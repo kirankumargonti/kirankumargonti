@@ -10,56 +10,6 @@
 - 😄 Pronouns: developer...
 - ⚡ Fun fact: ...
 -->
-<html>
-<head>
-
-<style>
- .resume {
-	 position: relative;
-	padding: 8px 15px;
-  background: #242831;
-  margin-bottom: 20px;
-  display: inline-block;
-  font-weight: bold;
-  color: white !important;
-  font-size:10px;
-  font-family: segoe UI;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
- .resume::before {
-	 position: absolute;
-	 content: '';
-	 top: -2px;
-	 bottom: -2px;
-	 left: -2px;
-	 right: -2px;
-	 z-index: -1;
-	 background: linear-gradient(195deg, #e100ff, #060c21, #3700ff);
-
-}
- .resume::after {
-	 position: absolute;
-	 content: '';
-	 top: -5px;
-	 bottom: -5px;
-	 left: -5px;
-	 right: -5px;
-	 z-index: -2;
-	 background: linear-gradient(195deg, #e100ff, #060c21, #3700ff);
-	 filter: blur(5px);
-
-}
- .resume:hover::before {
-	 background: linear-gradient(195deg, #3700ff, #060c21, #e100ff);
-}
- .resume:hover::after {
-	 background: linear-gradient(195deg, #3700ff, #060c21, #e100ff);
-}
- 
-</style>
-</head>
-</html>
 <h2> Hey there! I'm Kirankumar Gonti.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -83,8 +33,20 @@
 
 <br/>
 
-<a download class="resume" href="https://kirankumargonti.com/static/media/Kirankumar_Gonti__Resume.e7550137.pdf"  style="margin-right: 20px; text-decoration:none;">
-  Download Resume
+<a download="true"  href="https://kirankumargonti.com/static/media/Kirankumar_Gonti__Resume.e7550137.pdf"  style="
+text-decoration:none;
+ padding: 0px 15px 15px;
+ border-radius:5px;
+  background: #242831;
+  margin: 0 0 20px 0;
+  display: inline-block;
+  font-weight: bold;
+  color: white !important;
+  font-size:10px;
+  font-family: segoe UI;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;">
+Download Resume
 </a>
 
 [![Kirankumar Gonti's Github Stats](https://github-readme-stats.vercel.app/api?username=kirankumargonti&show_icons=true&title_color=fff&icon_color=eeae00&text_color=bed2d4&bg_color=4d0050)](https://github.com/kirankumargonti)
