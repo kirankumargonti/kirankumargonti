@@ -10,6 +10,9 @@
 - 😄 Pronouns: developer...
 - ⚡ Fun fact: ...
 -->
+<html>
+<head>
+
 <style>
  .resume {
 	 position: relative;
@@ -55,7 +58,8 @@
 }
  
 </style>
-
+</head>
+</html>
 <h2> Hey there! I'm Kirankumar Gonti.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
