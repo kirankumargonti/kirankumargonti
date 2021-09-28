@@ -24,12 +24,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
+- 💻 &nbsp; Python | Solidity 
 - 🌐 &nbsp; Next JS | React | Node Js | Express Js | Redux | GraphQL | Apollo GraphQL | TailwindCSS | SASS/SCSS | Material UI | Bootstrap | Ant Design | HTML | CSS
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Postman
 - 🖥 &nbsp; Photoshop | XD
-- ✍️ &nbsp; Visual studio code | Atom
+- ✍️ &nbsp; Visual studio code | Remix
 
 <br/>
 
