@@ -14,7 +14,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻&nbsp; 1+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
+- 💻&nbsp; 2+ years experience as Frontend Developer (Next Js) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated in Computer Science and Engineering at Guru Nanak Institute of Technology, Hyderabad.
@@ -24,10 +24,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Solidity 
-- 🌐 &nbsp; Next JS | React | Node Js | Express Js | Redux | GraphQL | Apollo GraphQL | TailwindCSS | SASS/SCSS | Material UI | Bootstrap | Ant Design | HTML | CSS
+- 💻 &nbsp; Solidity (Learning)
+- 🌐 &nbsp; Next JS | React | React Query| Web3.js| Wagmi | Rainbow Kit | Typescript | Redux | SASS/SCSS | Web3-React | Bootstrap |Tailwind Css |Ether js
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Postman
+- 🔧 &nbsp; Git | Markdown | Postman | 
 - 🖥 &nbsp; Photoshop | XD
 - ✍️ &nbsp; Visual studio code | Remix
 
