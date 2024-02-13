@@ -10,30 +10,32 @@
 - 😄 Pronouns: developer...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Kirankumar Gonti.</h2>
+
+### Hi there <a href="https://kirankumargonti.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp; I’m currently looking for Job
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻&nbsp; 2+ years experience as Frontend Developer (Next Js) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
+Crafting user-friendly UIs by day, building decentralized experiences by night. ⚛️ Adept in Next js, React, Web3 js, Ethers js, Wagmi, JS frameworks, and the wild world of Web3. Open to collaboration, fueled by coffee & Crypto. ☕️ ✨
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated in Computer Science and Engineering at Guru Nanak Institute of Technology, Hyderabad.
-- 🔭 &nbsp; I’m currently looking for Job
-- 🌱 &nbsp; Learning more about Full Stack Web development, Machine Learning and Artificial Intelligence.
-- 💻 &nbsp; Freelancer and [Youtube](https://youtube.com/kirankumargonti) creator
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Solidity
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Web3/React/Micro Fontends
+- 🌐 [Youtube](https://youtube.com/kirankumargonti) creator</span>
 
-<h3>🛠 Tech Stack</h3>
+<h3>Things I code with</h3>
 
-- 💻 &nbsp; Solidity (Learning)
-- 🌐 &nbsp; Next JS | React | React Query| Web3.js| Wagmi | Rainbow Kit | Typescript | Redux | SASS/SCSS | Web3-React | Bootstrap |Tailwind Css |Ether js
-- 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Postman | 
-- 🖥 &nbsp; Photoshop | XD
+- 🌐 &nbsp; Next JS | React | Typescript | Javascript| React Query| Micro Fontends | Redux Toolkit | Web3.js | Wagmi | Viem | Ether js | Rainbow Kit | SASS/SCSS | Material UI |Tailwind Css | Jest | Storybook
+- 🔧 &nbsp; Git | Turbo Repo | Postman | Webpack
+- 🖥 &nbsp; Figma | XD | Sketch
 - ✍️ &nbsp; Visual studio code | Remix
 
 <br/>
 
-<a download="true"  href="https://kirankumargonti.com/static/media/Kirankumar_Gonti__Resume.e7550137.pdf"  style="
+<a style="
 text-decoration:none;
  padding: 0px 15px 15px;
  border-radius:5px;
@@ -45,9 +47,8 @@ text-decoration:none;
   font-size:10px;
   font-family: segoe UI;
   text-transform: uppercase;
-  letter-spacing: 0.5px;">
-Download Resume
-</a>
+  letter-spacing: 0.5px;" href="app.rezi.ai/s/B8pgU8qlQVdkgaYx6fTT" target="_blank" rel="noopener noreferrer">
+View Resume</a>
 
 [![Kirankumar Gonti's Github Stats](https://github-readme-stats.vercel.app/api?username=kirankumargonti&show_icons=true&title_color=fff&icon_color=eeae00&text_color=bed2d4&bg_color=4d0050)](https://github.com/kirankumargonti)
 
@@ -89,3 +90,16 @@ Download Resume
 <br />
 
 ⭐️ From **[Kirankumar Gonti](https://github.com/kirankumargonti)**
+<br />
+
+```
+  ____                  ____
+ / __ \___  ___ ___    / __/__  __ _____________
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_)
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/
+   _/_/                  __  __   _
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/
+```
