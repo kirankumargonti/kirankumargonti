@@ -47,10 +47,11 @@ text-decoration:none;
   font-size:10px;
   font-family: segoe UI;
   text-transform: uppercase;
-  letter-spacing: 0.5px;" href="app.rezi.ai/s/B8pgU8qlQVdkgaYx6fTT" target="_blank" rel="noopener noreferrer">
+  letter-spacing: 0.5px;" href="https://www.getaresu.me/kirankumargonti" target="_blank" rel="noopener noreferrer">
 View Resume</a>
 
 [![Kirankumar Gonti's Github Stats](https://github-readme-stats.vercel.app/api?username=kirankumargonti&show_icons=true&title_color=fff&icon_color=eeae00&text_color=bed2d4&bg_color=4d0050)](https://github.com/kirankumargonti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumargonti&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff&cache=off)](https://github.com/kirankumargonti/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
